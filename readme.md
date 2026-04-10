@@ -14,7 +14,6 @@ The tool features a custom **Graphical User Interface (GUI)** for seamless inter
  1. **Model Loading:** The application utilizes a pre-trained **Arbitrary Image Stylization** model from TensorFlow Hub. This model is capable of performing fast stylization in a single forward pass, supporting any arbitrary style image.
  2. **Preprocessing:** Content and style images are converted into float tensors. The content image is resized to 512 \times 512 for optimal detail, while the style image is resized to 256 \times 256 as per model requirements.
  3. **Intensity Blending:** An integrated slider allows for linear interpolation between the original content and the stylized output, giving the user control over the "strength" of the transformation.
-<img width="1920" height="1080" alt="output-preview" src="https://github.com/user-attachments/assets/feaf3bcf-943b-40da-9542-727c6dd60089" />
 
 
 ### 🚀 How to Run
