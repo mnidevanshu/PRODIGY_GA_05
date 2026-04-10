@@ -24,7 +24,7 @@ The tool features a custom **Graphical User Interface (GUI)** for seamless inter
    ```
  2. **Execute the application:**
    ```bash
-   "main.py"
+   main.py
    
    ```
  3. **Usage:**
